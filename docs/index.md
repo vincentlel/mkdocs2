@@ -1,5 +1,6 @@
 [use]: https://github.com/Andre601/mkdocs-template/generate
 
+
 [MkDocs]: https://www.mkdocs.org/
 
 [squidfunk]: https://github.com/squidfunk
