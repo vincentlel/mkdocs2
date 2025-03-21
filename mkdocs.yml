@@ -94,8 +94,8 @@ repo_url: https://github.com/vincentlel/mkdocs2
 # +--------------------------------------------------------------------------------------------------------+
 nav:
   - EarthDaily Agro: index.md
-  - EarthdataStore: EDS/EDS Documentation.md
-    -API: EDS/APIDesign/APIDetailandLimits.md
+  - EarthdataStore: EDS\EDS Documentation.md
+
   
 
 # +--------------------------------------------------------------------------------------------------------+
