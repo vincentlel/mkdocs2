@@ -14,7 +14,7 @@ redirect_from:
 
 **Welcome to the EDS (Earth Data Store) documentation** !!
 
-![EarthDailyEDS](./Images/EarthDailyEDS.png)
+![EarthDailyEDS](./assets/EarthDailyEDS.png)
 
 <!--
 # EDS Documentation

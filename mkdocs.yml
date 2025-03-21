@@ -75,10 +75,10 @@ docs_dir: docs/
 # | - https://www.mkdocs.org/user-guide/configuration/#edit_uri                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-#repo_name: vincentlel/mkdocs2
-#repo_url: https://github.com/vincentlel/mkdocs2
-repo_name: Andre601/mkdocs-template
-repo_url: https://github.com/Andre601/mkdocs-template
+
+repo_name: vincentlel/mkdocs2
+repo_url: https://github.com/vincentlel/mkdocs2
+
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
@@ -97,8 +97,16 @@ repo_url: https://github.com/Andre601/mkdocs-template
 nav:
   - EarthDaily Agro: index.md
   - EarthdataStore: EDS/EDS Documentation.md
-
-  
+    - Getting started: EDS/GettingStarted/GettingStarted.md
+      - Welcome: EDS/GettingStarted/APIAuthentication.md
+      - API Authentication: EDS/GettingStarted/APIAuthentication.md
+      - Quick Start: EDS/GettingStarted/QuickStart.md
+    - Console: EDS/Console/Console.md
+      - New login Experience: EDS/Console/NewLoginExperience.md
+      - Account Information: EDS/Console/AccountInformationUI.md
+      - EarthPlatform: EDS/Console/CatalogUI.md
+      - EarthMosaics: EDS/Console/MosaicUI.md
+  - Swagger: Swagger.md
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -506,3 +514,6 @@ markdown_extensions:
   #- pymdownx.tabbed:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
+
+plugins:
+  - swagger-ui-tag
