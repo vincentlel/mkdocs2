@@ -44,7 +44,7 @@ site_author: 'Vincent Lelandais'
 # | - https://www.mkdocs.org/user-guide/configuration/#copyright                                           |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-copyright: |
+copyright: © 2025 EarthDaily Analytics Corp | All Rights Reserved. Distributed under the GPL 3.0 License.|
   &copy; Author
 
 # +--------------------------------------------------------------------------------------------------------+
@@ -97,12 +97,12 @@ repo_url: https://github.com/vincentlel/mkdocs2
 nav:
   - EarthDaily Agro: index.md
   - EarthdataStore: EDS/EDS Documentation.md
-    - Getting started: 
+    -Getting started: 
       - Getting started: EDS/GettingStarted/GettingStarted.md
       - Welcome: EDS/GettingStarted/APIAuthentication.md
       - API Authentication: EDS/GettingStarted/APIAuthentication.md
       - Quick Start: EDS/GettingStarted/QuickStart.md
-    - Console:
+    -Console:
       - Console: EDS/Console/Console.md
       - New login Experience: EDS/Console/NewLoginExperience.md
       - Account Information: EDS/Console/AccountInformationUI.md
@@ -292,13 +292,13 @@ theme:
   
   # Navigation:
   #
-  #- navigation.expand      # Expand all collapsable sections.
+  - navigation.expand      # Expand all collapsable sections.
   #- navigation.instant     # Instant loading pages.
   #- navigation.indexes     # Attach pages directly to Sections. Incompatible with "toc.integrate"
   #- navigation.sections    # Render top sections as groups.
   - navigation.tabs         # Render top sections as tabs at the top.
   #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
-  #- navigation.top         # Adds a "Back to top" that is shown when scrolling up.
+  - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
   #- navigation.tracking    # Updates the url with highlighted section anchor.
   
   # Search
