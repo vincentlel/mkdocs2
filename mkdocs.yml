@@ -549,7 +549,9 @@ nav:
         - Collections: Collections.md
         - Cloud mask: EDACloudMasks.md
         - Mosaics: EDAMosaics.md
-#      - EDS Examples:
+    - Mosaics:
+      -Mosaics: EDAMosaics.md
+#   - EDS Examples:
 #      - FAQs:
   - Agriculture: 
     - Parametric insurance: 
