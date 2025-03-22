@@ -152,7 +152,7 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
 # Option 1: Set palette mode to default or slate
- #scheme: 'slate'   
+  scheme: 'slate'   
 # Option 2: palette toggle 
   palette:
     # Palette toggle for light mode
@@ -188,7 +188,7 @@ theme:
     # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color             |
     # |                                                                                                    |
     # +----------------------------------------------------------------------------------------------------+
-    primary: 'blue'
+  primary: 'blue'
     
     # +----------------------------------------------------------------------------------------------------+
     # |                                                                                                    |
@@ -198,7 +198,7 @@ theme:
     # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#accent-color              |
     # |                                                                                                    |
     # +----------------------------------------------------------------------------------------------------+
-    accent: 'light blue'
+  accent: 'light blue'
     
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
