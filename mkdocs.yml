@@ -152,10 +152,12 @@ theme:
   # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle        |
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
-  palette:
- # Option 1: Set palette mode to default or slate
+# Option 1: Set palette mode to default or slate
  #scheme: 'slate'   
-    # Option 2: palette toggle
+# Option 2: palette toggle 
+  theme:
+    palette:
+
     # Palette toggle for light mode
     - scheme: default
       toggle:
