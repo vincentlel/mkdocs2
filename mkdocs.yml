@@ -526,7 +526,7 @@ nav:
     - Earthdatastore: 
       - Earthdatastore: EDS/EDS Documentation.md 
       - Getting started:
-        - Welcome:WelcomeEmail.md
+        - Welcome: WelcomeEmail.md
         - API Authentication: APIAuthentication.md
         - Quick start: QuickStart.md
       - Console:
