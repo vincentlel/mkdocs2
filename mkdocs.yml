@@ -507,14 +507,34 @@ plugins:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 nav:
-  - EarthDaily Agro: index.md
-  - EarthdataStore: 
-    - Earthdatastore: EDS/EDS Documentation.md
-    - Console:
+  - Home: index.md
+  - Data: 
+    - Earthdatastore: 
+      - Earthdatastore: EDS/EDS Documentation.md
+      - Getting started:
+        - Welcome:
+        - API Authentication:
+        - Quick start:
+      - Console:
         - Console: EDS/Console/Console.md
         - New login Experience: EDS/Console/NewLoginExperience.md
         - Account Information: EDS/Console/AccountInformationUI.md
         - EarthPlatform: EDS/Console/CatalogUI.md
-        - EarthMosaics: EDS/Console/MosaicUI.md
-  - Swagger: 
-    - Emergence Processor: Swagger.md
+        - EarthMosaics: EDS/Console/MosaicUI.mD
+      - API:
+      - Collections:
+      - EDS Examples:
+      - FAQs:
+  - Agriculture: 
+    - Parametric insurance: 
+      - API: Swagger.md
+    - Digital Ag feed:
+      - App:
+      - API:
+  - Insights: 
+  - Insurance & Banking:
+  - Mining & Energy:
+  - Forest:
+  - Blog:
+
+
