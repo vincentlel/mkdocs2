@@ -528,9 +528,9 @@ nav:
   - Agriculture: 
     - Parametric insurance: 
       - API: Swagger.md
-    - Digital Ag feed:
-      - App: Swagger.md
-      - API: Swagger.md
+#    - Digital Ag feed:
+#      - App: Swagger.md
+#      - API: Swagger.md
 #  - Insights: 
 #  - Insurance & Banking:
 #  - Mining & Energy:
