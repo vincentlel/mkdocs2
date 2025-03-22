@@ -96,18 +96,14 @@ repo_url: https://github.com/vincentlel/mkdocs2
 # +--------------------------------------------------------------------------------------------------------+
 nav:
   - EarthDaily Agro: index.md
-  - EarthdataStore: EDS/EDS Documentation.md
-    -Getting started: 
-      - Getting started: EDS/GettingStarted/GettingStarted.md
-      - Welcome: EDS/GettingStarted/APIAuthentication.md
-      - API Authentication: EDS/GettingStarted/APIAuthentication.md
-      - Quick Start: EDS/GettingStarted/QuickStart.md
-    -Console:
-      - Console: EDS/Console/Console.md
-      - New login Experience: EDS/Console/NewLoginExperience.md
-      - Account Information: EDS/Console/AccountInformationUI.md
-      - EarthPlatform: EDS/Console/CatalogUI.md
-      - EarthMosaics: EDS/Console/MosaicUI.md
+  - EarthdataStore: 
+    - Earthdatastore: EDS/EDS Documentation.md
+    - Console:
+        - Console: EDS/Console/Console.md
+        - New login Experience: EDS/Console/NewLoginExperience.md
+        - Account Information: EDS/Console/AccountInformationUI.md
+        - EarthPlatform: EDS/Console/CatalogUI.md
+        - EarthMosaics: EDS/Console/MosaicUI.md
   - Swagger: Swagger.md
 
 # +--------------------------------------------------------------------------------------------------------+
