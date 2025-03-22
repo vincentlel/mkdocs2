@@ -83,31 +83,6 @@ repo_url: https://github.com/vincentlel/mkdocs2
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
-# | The "nav" option is where you define the navigation to show in MkDocs.                                 |
-# |                                                                                                        |
-# | Depending on the theme you use will the resulting Navigation look different.                           |
-# |                                                                                                        |
-# | You can set different types of navigations. Either just the path, the path with a separate title or    |
-# | an external URL.                                                                                       |
-# |                                                                                                        |
-# | Read More:                                                                                             |
-# | - https://www.mkdocs.org/user-guide/configuration/#documentation-layout                                |
-# |                                                                                                        |
-# +--------------------------------------------------------------------------------------------------------+
-nav:
-  - EarthDaily Agro: index.md
-  - EarthdataStore: 
-    - Earthdatastore: EDS/EDS Documentation.md
-    - Console:
-        - Console: EDS/Console/Console.md
-        - New login Experience: EDS/Console/NewLoginExperience.md
-        - Account Information: EDS/Console/AccountInformationUI.md
-        - EarthPlatform: EDS/Console/CatalogUI.md
-        - EarthMosaics: EDS/Console/MosaicUI.md
-  - Swagger: Swagger.md
-
-# +--------------------------------------------------------------------------------------------------------+
-# |                                                                                                        |
 # | The "theme" section allows you to define what theme to use.                                            |
 # | It is also used for theme-specific options, but also for advanced stuff such as theme-extensions, if   |
 # | the theme actually supports it.                                                                        |
@@ -409,6 +384,8 @@ theme:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 extra:
+  generator: false
+
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
   # | The social section allows you to set a list of entries which would be displayed in the footer of the |
@@ -515,3 +492,29 @@ markdown_extensions:
 
 plugins:
   - swagger-ui-tag
+
+# +--------------------------------------------------------------------------------------------------------+
+# |                                                                                                        |
+# | The "nav" option is where you define the navigation to show in MkDocs.                                 |
+# |                                                                                                        |
+# | Depending on the theme you use will the resulting Navigation look different.                           |
+# |                                                                                                        |
+# | You can set different types of navigations. Either just the path, the path with a separate title or    |
+# | an external URL.                                                                                       |
+# |                                                                                                        |
+# | Read More:                                                                                             |
+# | - https://www.mkdocs.org/user-guide/configuration/#documentation-layout                                |
+# |                                                                                                        |
+# +--------------------------------------------------------------------------------------------------------+
+nav:
+  - EarthDaily Agro: index.md
+  - EarthdataStore: 
+    - Earthdatastore: EDS/EDS Documentation.md
+    - Console:
+        - Console: EDS/Console/Console.md
+        - New login Experience: EDS/Console/NewLoginExperience.md
+        - Account Information: EDS/Console/AccountInformationUI.md
+        - EarthPlatform: EDS/Console/CatalogUI.md
+        - EarthMosaics: EDS/Console/MosaicUI.md
+  - Swagger: 
+    - Emergence Processor: Swagger.md
