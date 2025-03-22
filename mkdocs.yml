@@ -522,7 +522,9 @@ plugins:
 # +--------------------------------------------------------------------------------------------------------+
 nav:
   - Home: index.md
-  - Data: 
+  - Data:
+    - Earthdatastore: 
+    - Earthdatastore: EDS/EDS Documentation.md 
   - Agriculture: 
     - Parametric insurance: 
       - API: Swagger.md
@@ -535,8 +537,7 @@ nav:
 #  - Forest:
 #  - Blog:
 
-#    - Earthdatastore: 
-#      - Earthdatastore: EDS/EDS Documentation.md
+
 #      - Getting started:
 #        - Welcome:
 #        - API Authentication:
