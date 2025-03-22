@@ -505,6 +505,7 @@ markdown_extensions:
 
 plugins:
   - swagger-ui-tag
+  - blog
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -562,7 +563,7 @@ nav:
 #  - Insurance & Banking:
 #  - Mining & Energy:
 #  - Forest:
-#  - Blog:
+  - Blog:
 
 
 
