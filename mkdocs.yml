@@ -45,7 +45,7 @@ site_author: 'Vincent Lelandais'
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 copyright: © 2025 EarthDaily Analytics Corp | All Rights Reserved. Distributed under the GPL 3.0 License.|
-  &copy; Author
+
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -58,7 +58,6 @@ copyright: © 2025 EarthDaily Analytics Corp | All Rights Reserved. Distributed 
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 docs_dir: docs/
-
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -155,8 +154,7 @@ theme:
 # Option 1: Set palette mode to default or slate
  #scheme: 'slate'   
 # Option 2: palette toggle 
-  theme:
-    palette:
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -179,8 +177,7 @@ theme:
     # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-scheme              |
     # |                                                                                                    |
     # +----------------------------------------------------------------------------------------------------+
-   
-    
+     
     # +----------------------------------------------------------------------------------------------------+
     # |                                                                                                    |
     # | "primary" is used to set the main color of the Material Theme.                                     |
@@ -280,7 +277,7 @@ theme:
   - navigation.expand      # Expand all collapsable sections.
   #- navigation.instant     # Instant loading pages.
   #- navigation.indexes     # Attach pages directly to Sections. Incompatible with "toc.integrate"
-  #- navigation.sections    # Render top sections as groups.
+  - navigation.sections    # Render top sections as groups.
   - navigation.tabs         # Render top sections as tabs at the top.
   #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
   - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
@@ -550,7 +547,7 @@ nav:
         - Cloud mask: EDACloudMasks.md
         - Mosaics: EDAMosaics.md
     - Mosaics:
-      -Mosaics: EDAMosaics.md
+      - Mosaics: EDAMosaics.md
 #   - EDS Examples:
 #      - FAQs:
   - Agriculture: 
