@@ -281,7 +281,9 @@ theme:
   - navigation.tabs         # Render top sections as tabs at the top.
   #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
   - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
+  - navigation.footer       # Enable navigation in page footer.
   #- navigation.tracking    # Updates the url with highlighted section anchor.
+  - navigation.top    # Display back to top button for easier navigation
   
   # Search
   #
@@ -291,8 +293,8 @@ theme:
   
   # Table of Contents
   #
-  #- toc.integrate          # Include the TOC sections in the left navugation.
-  
+  #- toc.integrate          # Include the TOC sections in the left navigation.
+  - toc.follow          # The sidebar is automatically scrolled so that the active anchor is always visible
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
   # | The "icon" section allows you to define a icon to use for the logo and/or repository.                |
@@ -521,13 +523,13 @@ nav:
   - Home: index.md
   - Data:
     - Earthdatastore: 
-      - Earthdatastore: EDS/EDS Documentation.md 
+      - EDS/EDS Documentation.md 
       - Getting started:
         - Welcome: WelcomeEmail.md
         - API Authentication: APIAuthentication.md
         - Quick start: QuickStart.md
       - Console:
-        - Console: EDS/Console/Console.md
+        - EDS/Console/Console.md
         - New login Experience: EDS/Console/NewLoginExperience.md
         - Account Information: EDS/Console/AccountInformationUI.md
         - EarthPlatform: EDS/Console/CatalogUI.md
