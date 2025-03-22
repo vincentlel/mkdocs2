@@ -153,12 +153,14 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
   palette:
+ # Option 1: Set palette mode to default or slate
+ #scheme: 'slate'   
+    # Option 2: palette toggle
     # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
@@ -176,7 +178,7 @@ theme:
     # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-scheme              |
     # |                                                                                                    |
     # +----------------------------------------------------------------------------------------------------+
-    scheme: 'slate'
+   
     
     # +----------------------------------------------------------------------------------------------------+
     # |                                                                                                    |
