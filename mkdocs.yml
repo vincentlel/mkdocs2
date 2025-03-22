@@ -157,7 +157,6 @@ theme:
 # Option 2: palette toggle 
   theme:
     palette:
-
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -524,32 +523,31 @@ plugins:
 nav:
   - Home: index.md
   - Data: 
-    - Earthdatastore: 
-      - Earthdatastore: EDS/EDS Documentation.md
-      - Getting started:
-        - Welcome:
-        - API Authentication:
-        - Quick start:
-      - Console:
-        - Console: EDS/Console/Console.md
-        - New login Experience: EDS/Console/NewLoginExperience.md
-        - Account Information: EDS/Console/AccountInformationUI.md
-        - EarthPlatform: EDS/Console/CatalogUI.md
-        - EarthMosaics: EDS/Console/MosaicUI.mD
-      - API:
-      - Collections:
-      - EDS Examples:
-      - FAQs:
   - Agriculture: 
     - Parametric insurance: 
       - API: Swagger.md
     - Digital Ag feed:
-      - App:
-      - API:
-  - Insights: 
-  - Insurance & Banking:
-  - Mining & Energy:
-  - Forest:
-  - Blog:
+      - App: Swagger.md
+      - API: Swagger.md
+#  - Insights: 
+#  - Insurance & Banking:
+#  - Mining & Energy:
+#  - Forest:
+#  - Blog:
 
-
+#    - Earthdatastore: 
+#      - Earthdatastore: EDS/EDS Documentation.md
+#      - Getting started:
+#        - Welcome:
+#        - API Authentication:
+#        - Quick start:
+#      - Console:
+#        - Console: EDS/Console/Console.md
+#        - New login Experience: EDS/Console/NewLoginExperience.md
+#        - Account Information: EDS/Console/AccountInformationUI.md
+#        - EarthPlatform: EDS/Console/CatalogUI.md
+#        - EarthMosaics: EDS/Console/MosaicUI.mD
+#      - API:
+#      - Collections:
+#      - EDS Examples:
+#      - FAQs:
