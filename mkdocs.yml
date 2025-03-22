@@ -526,9 +526,9 @@ nav:
     - Earthdatastore: 
       - Earthdatastore: EDS/EDS Documentation.md 
       - Getting started:
-        - Welcome:
-        - API Authentication:
-        - Quick start:
+        - Welcome:WelcomeEmail.md
+        - API Authentication: APIAuthentication.md
+        - Quick start: QuickStart.md
       - Console:
         - Console: EDS/Console/Console.md
         - New login Experience: EDS/Console/NewLoginExperience.md
@@ -537,21 +537,23 @@ nav:
         - EarthMosaics: EDS/Console/MosaicUI.mD
       - API:
       - Collections:
-      - EDS Examples:
-      - FAQs:
+        - Available collections: AvailableCollections.md
+        - Collections: Collections.md
+        - Cloud mask: EDACloudMasks.md
+        - Mosaics: EDAMosaics.md
+#      - EDS Examples:
+#      - FAQs:
   - Agriculture: 
     - Parametric insurance: 
       - API: Swagger.md
-
-
-#    - Digital Ag feed:
-#      - App: Swagger.md
-#      - API: Swagger.md
+    - Digital Ag feed:
+      - App: Swagger.md
+      - API: Swagger.md
 #  - Insights: 
 #  - Insurance & Banking:
 #  - Mining & Energy:
 #  - Forest:
-  - Blog:
+#  - Blog:
 
 
 
