@@ -537,20 +537,20 @@ nav:
         - EarthMosaics: EDS/Console/MosaicUI.mD
       - API:
         - API design:
-          - Details and limits: APIDetailsandLimits.md
-          - Spatial and temporal asset catalog: SpatialTemporalAssetCatalogs.md
+          - Details and limits: EDS/API/APIDesign/APIDetailsandLimits.md
+          - Spatial and temporal asset catalog: EDS/API/APIDesign/SpatialTemporalAssetCatalogs.md
         - API Usage:
-          - Command line: CommandLine.md
-          - Endpoints: Endpoints.md
-          - Postman: Postman.md
-          - Python: Python.md
+          - Command line: EDS/API/APIUsage/CommandLine.md
+          - Endpoints: EDS/API/APIUsage/Endpoints.md
+          - Postman: EDS/API/APIUsage/Postman.md
+          - Python: EDS/API/APIUsage/Python.md
       - Collections:
-        - Available collections: AvailableCollections.md
-        - Collections: Collections.md
-        - Cloud mask: EDACloudMasks.md
-        - Mosaics: EDAMosaics.md
+        - Available collections: EDS/Collections/AvailableCollections.md
+        - Collections: EDS/Collections/Collections.md
+        - Cloud mask: EEDS/Collections/EDACloudMasks.md
+        - Mosaics: EDS/Collections/EDAMosaics.md
     - Mosaics:
-      - Mosaics: EDAMosaics.md
+      - Mosaics: EDS/Collections/EDAMosaics.md
 #   - EDS Examples:
 #      - FAQs:
   - Agriculture: 
@@ -559,12 +559,13 @@ nav:
     - Digital Ag feed:
       - App: Swagger.md
       - API: Swagger.md
+  - Integrations: 
+    - Mosaics: EDS/Collections/EDAMosaics.md
+  - Blog:
+    - blog/index.md
 #  - Insights: 
 #  - Insurance & Banking:
 #  - Mining & Energy:
 #  - Forest:
-  - Blog:
-    - blog/index.md
-
 
 
