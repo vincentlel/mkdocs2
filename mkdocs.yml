@@ -514,6 +514,8 @@ markdown_extensions:
 plugins:
   - swagger-ui-tag
   - blog
+  - group
+  - privacy # Useful for GDPR compliancy https://squidfunk.github.io/mkdocs-material/plugins/privacy/
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
