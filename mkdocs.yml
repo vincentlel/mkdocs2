@@ -323,8 +323,8 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
   icon:
-    logo: 'material/library'
-    repo: 'material/library'
+    logo: '/assets/cropped-logo-agro-2-32x32.png'
+    repo: '/assets/cropped-logo-agro-2-32x32.png'
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
@@ -514,7 +514,7 @@ markdown_extensions:
 plugins:
   - swagger-ui-tag
   - blog
-  - group
+#  - group
   - privacy # Useful for GDPR compliancy https://squidfunk.github.io/mkdocs-material/plugins/privacy/
 
 # +--------------------------------------------------------------------------------------------------------+
