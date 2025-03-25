@@ -284,6 +284,8 @@ theme:
   - navigation.footer       # Enable navigation in page footer.
   #- navigation.tracking    # Updates the url with highlighted section anchor.
   - navigation.top    # Display back to top button for easier navigation
+  #- content.action.edit #Display an edit button on the top of the page
+  - content.action.view #Display a view source button on the top of the page
   
   # Search
   #
