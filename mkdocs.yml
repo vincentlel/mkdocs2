@@ -475,12 +475,19 @@ extra:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
   - markdown.extensions.admonition:
   - markdown.extensions.codehilite:
       guess_lang: false
   - markdown.extensions.toc:
       permalink: true
-  #- pymdownx.arithmex:
+  - pymdownx.arithmex:
+      generic: true
   #- pymdownx.b64:
   #- pymdownx.betterem:
   #- pymdownx.caret:
@@ -491,8 +498,8 @@ markdown_extensions:
   #- pymdownx.extra:
   #- pymdownx.extrarawhtml:
   #- pymdownx.highlight:
-  #- pymdownx.inlinehilite:
-  #- pymdownx.keys:
+  - pymdownx.inlinehilite:
+  - pymdownx.keys:
   #- pymdownx.magiclink:
   #- pymdownx.mark:
   #- pymdownx.pathconverter:
@@ -504,6 +511,11 @@ markdown_extensions:
   #- pymdownx.tabbed:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
+  - pymdownx.magiclink:
+    normalize_issue_symbols: true
+    repo_url_shorthand: true
+    user: vincentlel
+    repo: mkdocs2
 
 plugins:
   - swagger-ui-tag
