@@ -323,8 +323,8 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
   icon:
-    logo: 'assets/cropped-logo-agro-2-32x32.png'
-    repo: 'assets/cropped-logo-agro-2-32x32.png'
+    logo: assets/cropped-logo-agro-2-32x32.png
+    repo: assets/cropped-logo-agro-2-32x32.png
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
