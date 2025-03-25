@@ -475,12 +475,6 @@ extra:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
   - markdown.extensions.admonition:
   - markdown.extensions.codehilite:
       guess_lang: false
