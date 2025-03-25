@@ -286,7 +286,7 @@ theme:
   - navigation.top    # Display back to top button for easier navigation
   #- content.action.edit #Display an edit button on the top of the page
   - content.action.view #Display a view source button on the top of the page
-  
+  - content.code.copy #display copy button on code block
   # Search
   #
   #- search.highlight # Search will highlight the searched word(s) on the page.*
