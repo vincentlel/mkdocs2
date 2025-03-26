@@ -3,7 +3,8 @@
 
 
 # Workflow module
-::: earthdaily.earthdaily._init_.py
+
+::: earthdaily.__init__.py
 
 
 
