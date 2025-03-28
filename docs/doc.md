@@ -2,13 +2,7 @@
 
 
 
-# Workflow module
-
-<iframe src="https://geosys.statuspage.io/" width="100%" height="600px" style="border: none;"></iframe>
-
-For more details, visit the [Geosys Status Page](https://geosys.statuspage.io/).
-
-
+# Earthdaily service status
 
 <div id="status-page"></div>
 
@@ -20,3 +14,5 @@ fetch("https://geosys.statuspage.io/")
   })
   .catch(error => console.error("Error loading status page:", error));
 </script>
+
+For more details, visit the [Geosys Status Page](https://geosys.statuspage.io/).
