@@ -515,7 +515,6 @@ plugins:
   - swagger-ui-tag
   - blog
   - mkdocstrings
-    default_handler: 
       handlers:
         python:
           options:
