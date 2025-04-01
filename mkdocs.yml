@@ -136,7 +136,7 @@ theme:
   # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/#favicon             |
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
-  #favicon: 'assets/images/favicon.png'
+  favicon: assets/faviconV2.png
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
@@ -323,8 +323,8 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
   icon:
-    logo: assets/EDA_logo_horizontal_gradient-navy_1.svg
- #   repo: 'material/library'
+    logo: 'material/library'
+#    repo: 'material/library'
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
