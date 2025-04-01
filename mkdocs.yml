@@ -323,7 +323,7 @@ theme:
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
   icon:
-    logo: /assets/EDA_logo_horizontal_gradient-navy_1.svg
+    logo: assets/EDA_logo_horizontal_gradient-navy_1.svg
  #   repo: 'material/library'
   
   # +------------------------------------------------------------------------------------------------------+
