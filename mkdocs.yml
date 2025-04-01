@@ -30,7 +30,7 @@
 site_name: Earthdaily documentation
 site_description: 'Everything you need to know to master Earthdaily services'
 site_author: 'Vincent Lelandais'
-#site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
+site_url: 'https://vincentlel.github.io/mkdocs2/' # Uncomment to set a canonical URL
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -322,9 +322,23 @@ theme:
   # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/#logo                |
   # |                                                                                                      |
   # +------------------------------------------------------------------------------------------------------+
-  #icon:
+  icon:
   #  logo: 'material/library'
-#    repo: 'material/library'
+  #  repo: 'material/library'
+  # menu:
+  #alternate:
+  #search:
+  #share:
+  #close:
+  #top:
+  #edit:
+  #view:
+  #repo:
+  #admonition:
+  #tag:
+  #previous:
+  #next:
+
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
@@ -566,7 +580,8 @@ nav:
 #      - FAQs:
   - Agriculture: 
     - Parametric insurance: 
-      - API: Swagger.md
+      - Product: Agro/Parametric/parametric_insurance_product_site_draft.md
+      - API: Agro/Parametric/Swagger_parametric.md
     - Digital Ag feed:
       - App: Swagger.md
       - API: doc.md
