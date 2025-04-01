@@ -2,4 +2,5 @@ mkdocs-material==9.6.9
 mkdocs-swagger-ui-tag
 mkdocs-simple-blog
 pymdown-extensions
-mkdocstrings
+mkdocstrings-python
+mkdocstrings-sourcelink
