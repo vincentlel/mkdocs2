@@ -524,7 +524,9 @@ markdown_extensions:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
   
-
+extra_css:
+  - stylesheets/extra.css
+  
 plugins:
   - swagger-ui-tag
   - blog
