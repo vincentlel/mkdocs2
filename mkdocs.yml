@@ -266,7 +266,7 @@ theme:
   features:
   # Announce
   #
-  #- announce.dismiss # Adds a "X" button to dismiss a news banner/mark it as read.*
+  - announce.dismiss # Adds a "X" button to dismiss a news banner/mark it as read.*
   
   # Header
   #
@@ -421,7 +421,7 @@ extra:
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
-      make our documentation better. Please review our [privacy policy](https://earthdaily.com/privacy-policy) 
+      make our documentation better. Please review our <a href="https://earthdaily.com/privacy-policy">privacy policy</a>.
 
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
