@@ -16,7 +16,7 @@ tags:
   - hogmanay
   - festive season
 authors:
-  - VincentLel
+  - vinny
 #slug: ny-eve
 ---
 
