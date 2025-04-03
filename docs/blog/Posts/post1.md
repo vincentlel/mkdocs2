@@ -3,7 +3,7 @@ authors:
   - VincentLel
 date: 2025-03-30
 categories:
-  - meta
+  - Data
 ---
 
 # My first blog post
