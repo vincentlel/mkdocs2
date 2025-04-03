@@ -24,15 +24,17 @@
   fetchStatus();
 </script>
 
-
-<script async defer src="https://statuspage.io/embed/script.js"></script>
-<div data-statuspage-id="geosys"></div>
 <html>
 <body>
-    <!-- Statuspage Embed -->
-    <div data-id="geosys" data-host="your-statuspage-domain" class="statuspage-widget"></div>
-    <script src="https://geosys.betteruptime.com/embed/script.js"></script>
-
+<div id="status-page"></div>
+<script>
+fetch("https://geosys.statuspage.io/")
+  .then(response => response.text())
+  .then(html => {
+      document.getElementById("status-page").innerHTML = html;
+  })
+  .catch(error => console.error("Error loading status page:", error));
+</script>
 </body>
 </html>
 
