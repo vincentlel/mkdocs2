@@ -24,6 +24,15 @@
   fetchStatus();
 </script>
 
+<html>
+<body>
+    <!-- Statuspage Embed -->
+    <div data-id="geosys" data-host="your-statuspage-domain" class="statuspage-widget"></div>
+    <script src="https://geosys.betteruptime.com/embed/script.js"></script>
+
+</body>
+</html>
+
 For more details, visit the [Geosys Status Page](https://geosys.statuspage.io/).
 
 
