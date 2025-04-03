@@ -4,18 +4,18 @@ date:
   updated: 2024-01-02
 readtime: 15
 pin: true
-links:
-  - Homepage: index.md#project-layout
-  - Blog index: blog/index.md
-  - External links:
-    - Material documentation: https://squidfunk.github.io/mkdocs-material
+#links:
+#  - Homepage: index.md#project-layout
+#  - Blog index: blog/index.md
+#  - External links:
+#    - Material documentation: https://squidfunk.github.io/mkdocs-material
 categories:
   - Product
 tags:
-  - new year
-  - hogmanay
-  - festive season
-authors:
+  - Product
+ # - hogmanay
+ # - festive season
+authors: 
   - vinny
 #slug: ny-eve
 ---
