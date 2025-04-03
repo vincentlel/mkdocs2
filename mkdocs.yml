@@ -415,6 +415,8 @@ theme:
 # +--------------------------------------------------------------------------------------------------------+
 extra:
   generator: false
+  status:
+    improvement: Improvement 
   consent: 
     title: Cookie consent
     description: 
