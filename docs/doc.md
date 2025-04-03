@@ -24,6 +24,9 @@
   fetchStatus();
 </script>
 
+
+<script async defer src="https://statuspage.io/embed/script.js"></script>
+<div data-statuspage-id="geosys"></div>
 <html>
 <body>
     <!-- Statuspage Embed -->
