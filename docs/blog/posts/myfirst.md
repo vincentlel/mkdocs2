@@ -10,13 +10,13 @@ links:
   - External links:
     - Material documentation: https://squidfunk.github.io/mkdocs-material
 categories:
-  - Holidays
+  - Product
 tags:
   - new year
   - hogmanay
   - festive season
 authors:
-  - team
+  - VincentLel
 slug: ny-eve
 ---
 
