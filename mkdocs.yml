@@ -540,7 +540,7 @@ markdown_extensions:
 plugins:
   - swagger-ui-tag
   - blog
-      blog-dir: blog
+#      blog-dir: blog
       blog_toc: true
   - mkdocstrings
 #  - group
