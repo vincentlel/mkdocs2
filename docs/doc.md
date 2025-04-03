@@ -24,8 +24,7 @@
   fetchStatus();
 </script>
 
-<html>
-<body>
+
 <div id="status-page"></div>
 <script>
 fetch("https://geosys.statuspage.io/")
@@ -35,8 +34,7 @@ fetch("https://geosys.statuspage.io/")
   })
   .catch(error => console.error("Error loading status page:", error));
 </script>
-</body>
-</html>
+
 
 For more details, visit the [Geosys Status Page](https://geosys.statuspage.io/).
 
