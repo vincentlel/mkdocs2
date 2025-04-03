@@ -1,6 +1,6 @@
 ---
 authors: 
-  - VincentLel
+  - vinny
 date: 2025-03-30
 categories:
   - Data
