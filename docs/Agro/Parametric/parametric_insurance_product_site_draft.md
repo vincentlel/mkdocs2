@@ -1,10 +1,8 @@
-
-
 ---
 title: Parametric Insurance Data Pipeline
 description: Nullam urna elit, malesuada eget finibus ut, ac tortor. 
 icon: material/emoticon-happy
-Status: new
+status: new
 ---
 
 
