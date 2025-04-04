@@ -610,7 +610,7 @@ nav:
       - App: Swagger.md
       - API: doc.md
   - Integrations: 
-    - Mosaics: EDS/Collections/EDAMosaics.md
+    - Mosaics: admonitions.md
   - News:
     - blog/index.md
     - blog/tags.md
