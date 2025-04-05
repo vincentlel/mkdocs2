@@ -4,3 +4,4 @@ mkdocs-simple-blog
 pymdown-extensions
 mkdocstrings-python
 mkdocstrings-sourcelink
+markdown~=3.2
