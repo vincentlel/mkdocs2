@@ -4,7 +4,7 @@
 
 # Admonitions showcase
 
-<!-- md:version 9.2.0 -->
+
 <!-- md:flag experimental -->
 
 Supported type
