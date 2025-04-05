@@ -5,3 +5,4 @@ pymdown-extensions
 mkdocstrings-python
 mkdocstrings-sourcelink
 markdown~=3.2
+mkdocs-material-extensions~=1.3
