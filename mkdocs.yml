@@ -578,7 +578,7 @@ hooks:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 nav:
-  - Home: index2.md
+  - Home: index.md
   - Data:
     - Earthdatastore: 
       - EDS/EDS Documentation.md 
