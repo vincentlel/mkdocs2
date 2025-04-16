@@ -1,4 +1,6 @@
 ---
 template: home.html
-title: Home
+title: EarthDaily products
 ---
+
+Welcome to Material for MkDocs.
