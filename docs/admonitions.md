@@ -12,4 +12,4 @@ Supported type
 
 [cropid](/mkdocs2/Cropiddemo)
 
-[Platorm status update](/docs/Support/Status.md)
+[Platorm status update](/docs/Support/Status)
