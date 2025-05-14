@@ -614,8 +614,8 @@ nav:
     - Parametric insurance: 
       - Product: Agro/Parametric/parametric_insurance_product_site_draft.md
       - API: Agro/Parametric/Swagger.md
-    - Digital Ag feed:
-      - App: Swagger.md
+    - Portfolio Management:
+      - App: Agro/Portfolio/portfolio_product_site_draft.md
       - API: doc.md
   - Integrations: 
     - Mosaics: admonitions.md
