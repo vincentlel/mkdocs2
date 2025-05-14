@@ -1,7 +1,7 @@
 ---
 title: Fintech Portfolio management
 description: This page is dedicated to presentation of Portfolio management product
-icon: material/api
+icon: material/wallet-outline
 ---
 
 # Parametric Insurance Data Service

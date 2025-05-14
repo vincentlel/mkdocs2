@@ -12,4 +12,4 @@ Supported type
 
 [cropid](/mkdocs2/Cropiddemo)
 
-[This is an external link to genome.gov](https://www.genome.gov/)
+[Platorm status update](/docs/Support/Status.md)
