@@ -1,7 +1,7 @@
 ---
 title: Fintech Portfolio management
 description: This page is dedicated to presentation of Portfolio management product
-icon: material/Photo Frame
+icon: material/material-tablet-dashboard
 status: new
 ---
 
