@@ -615,8 +615,14 @@ nav:
       - Product: Agro/Parametric/parametric_insurance_product_site_draft.md
       - API: Agro/Parametric/Swagger.md
     - Portfolio Management:
-      - App: Agro/Portfolio/portfolio_product_site_draft.md
-      - API: doc.md
+      - Product: Agro/Portfolio/portfolio_product_site_draft.md
+      - Workflow: doc.md
+    - Crop identification:
+      - Product: Agro/Portfolio/portfolio_product_site_draft.md
+      - Workflow: doc.md
+    - Library:
+      - Emergence: Agro/Portfolio/portfolio_product_site_draft.md
+      - Workflow: doc.md
   - Integrations: 
     - Mosaics: admonitions.md
   - News:
