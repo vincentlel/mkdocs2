@@ -1,5 +1,5 @@
 ---
-template: home.html
+#template: home.html
 title: EarthDaily products
 ---
 
