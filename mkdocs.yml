@@ -619,12 +619,10 @@ nav:
       - Workflow: doc.md
     - Crop identification:
       - Product: Agro/Portfolio/portfolio_product_site_draft.md
-      - Workflow: doc.md
     - Library:
-      - Emergence: Agro/Portfolio/portfolio_product_site_draft.md
-      - Workflow: doc.md
+      - Emergence: Agro/library/Emergence.md
   - Support: 
-    - status: admonitions.md
+    - Status: admonitions.md
   - News:
     - blog/index.md
     - blog/tags.md
