@@ -623,8 +623,8 @@ nav:
     - Library:
       - Emergence: Agro/Portfolio/portfolio_product_site_draft.md
       - Workflow: doc.md
-  - Integrations: 
-    - Mosaics: admonitions.md
+  - Support: 
+    - status: admonitions.md
   - News:
     - blog/index.md
     - blog/tags.md
