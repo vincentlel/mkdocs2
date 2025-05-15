@@ -281,13 +281,15 @@ theme:
   #- navigation.sections    # Render top sections as groups.
   - navigation.tabs         # Render top sections as tabs at the top.
   #- navigation.tabs.sticky # Tabs won't disappear when scrolling down. Requires "navigation.tabs".
+  - navigation.path # Display a breadcrumb navigation above the page title
   - navigation.top         # Adds a "Back to top" that is shown when scrolling up.
   - navigation.footer       # Enable navigation in page footer.
-  #- navigation.tracking    # Updates the url with highlighted section anchor.
+  - navigation.tracking    # Updates the url with highlighted section anchor.
   - navigation.top    # Display back to top button for easier navigation
   #- content.action.edit #Display an edit button on the top of the page
   - content.action.view #Display a view source button on the top of the page
   - content.code.copy #display copy button on code block
+
   # Search
   #
   #- search.highlight # Search will highlight the searched word(s) on the page.*
@@ -624,7 +626,7 @@ nav:
       - Product: Agro/Portfolio/portfolio_product_site_draft.md
     - Analytic catalog:
       - Emergence: Agro/Library/Emergence.md
-  - Helpcenter: 
+  - Help Center: 
     - Status: admonitions.md
   - News:
     - blog/index.md
