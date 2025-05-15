@@ -1,7 +1,7 @@
 ---
 title: Helpcenter
 description: This section will containd all ressoures related wiht product support. 
-icon: fontawesome/question
+icon: material/wallet-outline
 status: new
 ---
 # Helpcenter
