@@ -604,24 +604,25 @@ nav:
       - Collections:
         - Available collections: EDS/Collections/AvailableCollections.md
         - Collections: EDS/Collections/Collections.md
-        - Cloud mask: EEDS/Collections/EDACloudMasks.md
+        - Cloud mask: EDS/Collections/EDACloudMasks.md
         - Mosaics: EDS/Collections/EDAMosaics.md
     - Mosaics:
       - Mosaics: EDS/Collections/EDAMosaics.md
 #   - EDS Examples:
-#      - FAQs:
   - Agriculture: 
     - Parametric insurance: 
       - Product: Agro/Parametric/parametric_insurance_product_site_draft.md
-      - API: Agro/Parametric/Swagger.md
+      - User guide: Agro/Parametric/Swagger.md
     - Portfolio Management:
       - Product: Agro/Portfolio/portfolio_product_site_draft.md
-      - Workflow: doc.md
+      - Smart underwritting: doc.md
+      - Environmental Compliance: doc.md
+      - In-Season Monitoring: doc.md
     - Crop identification:
       - Product: Agro/Portfolio/portfolio_product_site_draft.md
     - Library:
       - Emergence: Agro/Library/Emergence.md
-  - Support: 
+  - Helpcenter: 
     - Status: admonitions.md
   - News:
     - blog/index.md
