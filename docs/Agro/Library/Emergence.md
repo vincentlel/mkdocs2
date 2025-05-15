@@ -1,5 +1,10 @@
 
-
+---
+title: Emergence
+description: This section wil explain all you need to know on emergence detection. 
+icon: fontawesome/question
+status: new
+---
 
 # Emergence detection
 
@@ -18,7 +23,7 @@ This analytic provides the date of emergence for a specific field.  It does so 
 ## Use case and product
 
 This analytic is used in:
-    - [Portfolio](/mkdocs2/docs/agro/Portfolio/portfolio_product_site_draft)
+    - [Portfolio](/mkdocs2/Agro/Portfolio/portfolio_product_site_draft/)
 
 
 
