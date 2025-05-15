@@ -1,5 +1,5 @@
 ---
-title: Helpcenter
+title: Help Center
 description: This section will containd all ressoures related wiht product support. 
 icon: material/wallet-outline
 status: new
