@@ -615,12 +615,13 @@ nav:
       - User guide: Agro/Parametric/Swagger.md
     - Portfolio Management:
       - Product: Agro/Portfolio/portfolio_product_site_draft.md
-      - Smart underwritting: doc.md
-      - Environmental Compliance: doc.md
-      - In-Season Monitoring: doc.md
+      - Smart underwritting: Underwritting.md
+      - Environmental Compliance: Compliance.md
+      - In-Season Monitoring: Monitoring.md
+      - Integration: Integration.md
     - Crop identification:
       - Product: Agro/Portfolio/portfolio_product_site_draft.md
-    - Library:
+    - Analytic catalog:
       - Emergence: Agro/Library/Emergence.md
   - Helpcenter: 
     - Status: admonitions.md
