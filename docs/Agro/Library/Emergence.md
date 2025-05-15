@@ -1,7 +1,7 @@
 ---
 title: Emergence
 description: This section wil explain all you need to know on emergence detection. 
-icon: fontawesome/question
+# icon: fontawesome/question
 status: new
 ---
 
