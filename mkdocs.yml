@@ -417,6 +417,7 @@ theme:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 extra:
+  homepage: https://earthdaily.com/
   generator: false
   status:
     improvement: Improvement 

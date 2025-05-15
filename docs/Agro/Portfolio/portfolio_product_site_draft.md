@@ -4,11 +4,8 @@ description: This page is dedicated to presentation of Portfolio management prod
 icon: material/wallet-outline
 ---
 
-# Parametric Insurance Data Service
+# Fintech Portfolio management
 
-Welcome to the future of agricultural risk management.
-
----
 
 ## 🌾 Introduction
 
